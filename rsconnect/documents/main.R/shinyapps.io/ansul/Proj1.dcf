@@ -1,0 +1,12 @@
+name: Proj1
+title: Proj1
+username:
+account: ansul
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1790252
+bundleId: 2790895
+url: https://ansul.shinyapps.io/Proj1/
+when: 1581393965.52234
+asMultiple: FALSE
+asStatic: FALSE
